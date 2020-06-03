@@ -1,13 +1,8 @@
 # instagram_webscrape
 webscraping posts data in instagram.
 
-# Install
-```npm install puppeteer```
-
-```npm install buffer```
-
-```npm install request```
-
+# Install dependecies
+```npm install```
 
 ## import
 `const puppeteer = require('puppeteer');`
